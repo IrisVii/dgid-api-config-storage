@@ -1,0 +1,7 @@
+dgid:
+  admin:
+    data:
+      env: admin-dev
+      user:
+        username: test
+        password: 123456
